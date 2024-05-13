@@ -5,6 +5,3 @@
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
--Mauris vel urna eu eros vulputate consequat quis a metus
--Integer id nibh massa
--Nunc accumsan id lorem ut interdum
